@@ -1,0 +1,5 @@
+".env/"   # 排除.env文件夹
+"__pycache__/"   # 排除Python缓存文件夹
+"protoc-33.0-win64/"   # 排除protoc工具文件夹（若无需上传）
+"*.bat"   # 排除批处理文件（若无需上传）
+"tiktok_hack/"   # 若tiktok_hack是本地测试文件夹，也可排除
